@@ -43,7 +43,7 @@ If you do not have a Python environment manager, you must first install Minicond
 3.  **Run the System**
     Navigate to the project folder and execute the script:
     ```bash
-    cd [Folder Location]
+    cd [folderLocation]
     python yolo_identifier.py
     ```
 
