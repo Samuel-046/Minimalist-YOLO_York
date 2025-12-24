@@ -40,7 +40,7 @@ If you do not have a Python environment manager, you must first install Minicond
     python yolo_identifier.py
     ```
 
-Troubleshooting
+## Troubleshooting
 Webcam Not Opening: Ensure no other apps (like Zoom or Teams) are using the camera.
 
 No Sound: Ensure your system volume is up. This project uses the native Windows Speech API (SAPI).
