@@ -11,6 +11,14 @@ This project validates "Minimalism" in assistive technology. It uses YOLOv8n to 
 * **Voice Feedback:** Integrates `win32com.client` (SAPI) for offline text-to-speech alerts.
 * **Fault Tolerance:** Includes error handling for webcam and speech engine conflicts.
 
+## Installation Steps
+
+### 1. Install Miniconda (System Requirement)
+If you do not have a Python environment manager, you must first install Miniconda:
+1. Download the installer for your OS from the [Official Miniconda Website](https://docs.conda.io/en/latest/miniconda.html).
+2. Run the installer and follow the prompts. 
+3. **Important:** During installation, we recommend checking the box "Add Miniconda3 to my PATH environment variable" (if available) or simply use the **"Anaconda Prompt"** from your Start Menu after installation.
+
 ## Installation & Setup
 
 1.  **Create Environment**
