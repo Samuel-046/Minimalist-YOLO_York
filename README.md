@@ -25,7 +25,7 @@ If you do not have a Python environment manager, you must first install Minicond
 2. Run the installer and follow the prompts. 
 3. **Important:** During installation, we recommend checking the box "Add Miniconda3 to my PATH environment variable" (if available) or simply use the **"Anaconda Prompt"** from your Start Menu after installation.
 
-## Installation & Setup
+## How To Run
 
 1.  **Create Environment**
     Open your terminal (Anaconda Prompt) and run:
