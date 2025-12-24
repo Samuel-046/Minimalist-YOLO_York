@@ -13,7 +13,13 @@ This project validates "Minimalism" in assistive technology. It uses YOLOv8n to 
 
 ## Installation Steps
 
-### 1. Install Miniconda (System Requirement)
+### 1. Prepare the Project Folder
+Before running the code, you must set up the workspace on your computer:
+1.  **Create a Folder:** Create a new folder on your computer (e.g., named `YOLO_Project`).
+2.  **Create Script File:** Inside that folder, create a new file and name it `yolo_identifier.py`.
+3.  **Add Code:** Copy the source code provided in this repository and paste it into `yolo_identifier.py`.
+
+### 2. Install Miniconda (System Requirement)
 If you do not have a Python environment manager, you must first install Miniconda:
 1. Download the installer for your OS from the [Official Miniconda Website](https://docs.conda.io/en/latest/miniconda.html).
 2. Run the installer and follow the prompts. 
@@ -37,6 +43,7 @@ If you do not have a Python environment manager, you must first install Minicond
 3.  **Run the System**
     Navigate to the project folder and execute the script:
     ```bash
+    cd [Folder Location]
     python yolo_identifier.py
     ```
 
